@@ -1,4 +1,4 @@
-# tried to scrape some twitter account but they are heavily protected
+# failed attempt
 
 import requests
 from bs4 import BeautifulSoup
