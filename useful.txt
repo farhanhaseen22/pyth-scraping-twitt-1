@@ -58,7 +58,7 @@ git config --list --show-origin
 
 Change username and email global:
 
-git config --global user.name ""
+git config --global user.name "Farhan Reaz"
 git config --global user.email ""
 
 Change username and email for current repo:
